@@ -2,16 +2,17 @@
 main:
   - title: "Publications"
     url: /publications/
+    #google scholar link
 
-  - title: "Talks"
+  #- title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  #- title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
-        
+        #add link to resume
   - title: "Blog Posts"
     url: /year-archive/
     
